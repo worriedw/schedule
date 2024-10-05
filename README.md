@@ -1,4 +1,5 @@
-# React + TypeScript + Vite
+<3
+Run the main Echo file and install the dependencies, the reat application uses a cors service to make post requests to itself and communicates with a Google sheet app script file.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
